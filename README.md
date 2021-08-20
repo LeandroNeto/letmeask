@@ -21,4 +21,3 @@ Clique no botão abaixo para acessar a aplicação.  <br>
 <a href= "https://letmeask-96cb2.web.app/" target="_blank">
    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </a>
-[go](https://letmeask-96cb2.web.app/){:target="_blank" rel="noopener"}
